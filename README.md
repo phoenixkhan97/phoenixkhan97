@@ -3,7 +3,7 @@ FullStack Software Engineer
 
 <br>
 
-[![Generic badge](https://img.shields.io/badge/HTML-Expert-`#c41306`.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/HTML-Expert-`#0969DA`.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/CSS-Intermediate-orange.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/JavaScript-Intermediate-yellow.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/MongoDB-Beginner-green.svg)](https://shields.io/)
