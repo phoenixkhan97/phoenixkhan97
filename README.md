@@ -1,4 +1,6 @@
-PHOENIX KHAN
+# PHOENIX KHAN
+## FullStack Software Engineer
+
 <br>
 [![Generic badge](https://img.shields.io/badge/HTML-Expert-red.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/CSS-Intermediate-orange.svg)](https://shields.io/)
