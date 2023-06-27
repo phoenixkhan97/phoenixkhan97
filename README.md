@@ -21,6 +21,14 @@ FullStack Software Engineer
 ## ABOUT ME
 
 + General Assembly Graduate (September 2022)
+  + Work individually and in teams to produce user friendly applications
+  + Coded and deployed various projects according to GA standards
+
 + ServSafe Certified Manager (January 2021)
-+ Certified Professional Dog Trainer (CPDT April 2020)
+  + Supervised food safety protocols throughout shift 
+  + Trained new employees in various departments 
+
++ Certified Professional Dog Trainer (CPDT April 2019-current)
+  + Manage classes at multiple stores within district
+  + Assess animal behaviors and tailor solutions to customer needs  
 
