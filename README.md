@@ -13,7 +13,7 @@ FullStack Software Engineer
 
 <br>
 
-[![Generic badge](https://img.shields.io/badge/React-Intermediate-8f8f8f.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/React-Intermediate-737373.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/UI-Beginner-lightgrey.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/OOP-Beginner-pink.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/API-Beginner-lightgrey.svg)](https://shields.io/)
